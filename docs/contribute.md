@@ -1,4 +1,10 @@
----
+--(kali©kali)-[-/Desktop]
+
+./phoneinfoga
+
+scan -n
+
++27 81 774 5912
 hide:
 - navigation
 ---
