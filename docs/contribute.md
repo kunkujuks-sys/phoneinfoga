@@ -1,4 +1,10 @@
----
+---(kali©kali)-[-/Desktop]
+
+./phoneinfoga
+
+scan -n
+
++27 70 620 1609
 hide:
 - navigation
 ---
